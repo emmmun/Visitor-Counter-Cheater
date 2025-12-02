@@ -27,7 +27,7 @@ from datetime import datetime, timezone
 
 # ============= 配置区域（在这里修改参数） =================
 CONFIG = {
-    "URL": "https://visitor-counter-cheater.vercel.app/",   # 目标网页 URL
+    "URL": "https://wewestar.com/?fromuid=469057",   # 目标网页 URL
     "MAX_VISITS": 100,          # 最大访问次数（设置为 0 表示无限次）
     "INTERVAL_MEAN": 1.0,       # 平均访问间隔（秒）
     "INTERVAL_MIN": 0.3,        # 最小间隔（秒）
